@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.CurrenciesData {
+  width: 30%;
+  display: inline-flex;
+  flex-direction: column;
+  align-self: center;
+  box-shadow: 0px 8px 16px rgba(9, 125, 255, 0.12), 0px 0px 8px rgba(9, 125, 255, 0.16), 0px 0px 4px rgba(0, 0, 0, 0.04);
+  margin-top: 50px;
+}
+
+p {
+  border: solid 1px #566b87;
+  margin: 0;
+  padding: 16px;
+}
